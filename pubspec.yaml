@@ -1,5 +1,5 @@
 name: keep2yourself
-description: A new Flutter project.
+description: note-taking app that uses google keep api made with flutter.
 
 publish_to: 'none'
 
