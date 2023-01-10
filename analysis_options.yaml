@@ -1,0 +1,10 @@
+# https://dart-lang.github.io/linter/lints/
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    always_use_package_imports: true
+    depend_on_referenced_packages: false
+    unnecessary_parenthesis: true
