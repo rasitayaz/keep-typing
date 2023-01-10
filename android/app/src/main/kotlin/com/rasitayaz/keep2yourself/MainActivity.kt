@@ -1,4 +1,4 @@
-package com.example.keep2yourself
+package com.rasitayaz.keep2yourself
 
 import io.flutter.embedding.android.FlutterActivity
 

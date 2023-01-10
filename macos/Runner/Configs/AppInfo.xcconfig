@@ -8,7 +8,7 @@
 PRODUCT_NAME = keep2yourself
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.keep2yourself
+PRODUCT_BUNDLE_IDENTIFIER = com.rasitayaz.keep2yourself
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.rasitayaz. All rights reserved.
