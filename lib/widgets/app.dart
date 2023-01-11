@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:keep2yourself/widgets/home_page.dart';
+import 'package:keep2yourself/utils/theme.dart';
+import 'package:keep2yourself/widgets/landing_page.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -7,10 +8,10 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Keep 2 Yourself',
-      theme: ThemeData.dark(),
+      title: 'Keep',
+      theme: appTheme,
       debugShowCheckedModeBanner: false,
-      home: const HomePage(),
+      home: const LandingPage(),
     );
   }
 }
