@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>CLIENT_ID</key>
-	<string>374402910298-15ktmsbij45p245u8n161uhpsqobco94.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.374402910298-15ktmsbij45p245u8n161uhpsqobco94</string>
-	<key>PLIST_VERSION</key>
-	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>com.rasitayaz.keep_typing</string>
-</dict>
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>808566319639-n36mqbj5da7g79pfrjo4r04bg3nhtclk.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.808566319639-n36mqbj5da7g79pfrjo4r04bg3nhtclk</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.rasitayaz.keep_typing</string>
+	</dict>
 </plist>
