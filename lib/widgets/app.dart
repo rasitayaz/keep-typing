@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:keep2yourself/utils/theme.dart';
-import 'package:keep2yourself/widgets/landing_page.dart';
+import 'package:keep_typing/utils/theme.dart';
+import 'package:keep_typing/widgets/landing_page.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

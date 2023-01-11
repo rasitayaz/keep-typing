@@ -1,4 +1,4 @@
-name: keep2yourself
+name: keep_typing
 description: note-taking app that uses google keep api made with flutter.
 
 publish_to: 'none'

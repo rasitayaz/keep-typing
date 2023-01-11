@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:keep2yourself/utils/font.dart';
+import 'package:keep_typing/utils/font.dart';
 
 ThemeData get appTheme {
   return ThemeData(

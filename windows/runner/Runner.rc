@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.rasitayaz" "\0"
-            VALUE "FileDescription", "keep2yourself" "\0"
+            VALUE "FileDescription", "keep_typing" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "keep2yourself" "\0"
+            VALUE "InternalName", "keep_typing" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.rasitayaz. All rights reserved." "\0"
-            VALUE "OriginalFilename", "keep2yourself.exe" "\0"
-            VALUE "ProductName", "keep2yourself" "\0"
+            VALUE "OriginalFilename", "keep_typing.exe" "\0"
+            VALUE "ProductName", "keep_typing" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

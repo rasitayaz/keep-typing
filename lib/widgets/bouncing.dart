@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:conditional_wrap/conditional_wrap.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:keep2yourself/hooks/stopwatch_hook.dart';
+import 'package:keep_typing/hooks/stopwatch_hook.dart';
 
 class Bouncing extends HookWidget {
   const Bouncing({

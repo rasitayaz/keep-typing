@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.rasitayaz.keep2yourself">
+    package="com.rasitayaz.keep_typing">
     <application
-        android:label="keep2yourself"
+        android:label="keep_typing"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

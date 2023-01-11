@@ -1,6 +1,6 @@
 {
-    "name": "keep2yourself",
-    "short_name": "keep2yourself",
+    "name": "keep_typing",
+    "short_name": "keep_typing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

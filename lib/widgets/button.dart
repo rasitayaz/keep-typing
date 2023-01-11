@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:keep2yourself/utils/font.dart';
-import 'package:keep2yourself/utils/gap.dart';
-import 'package:keep2yourself/utils/rad.dart';
-import 'package:keep2yourself/widgets/bouncing.dart';
+import 'package:keep_typing/utils/font.dart';
+import 'package:keep_typing/utils/gap.dart';
+import 'package:keep_typing/utils/rad.dart';
+import 'package:keep_typing/widgets/bouncing.dart';
 
 class Button extends StatelessWidget {
   const Button({

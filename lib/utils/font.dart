@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:keep2yourself/utils/colors.dart';
+import 'package:keep_typing/utils/colors.dart';
 
 const font = TextStyle(fontFamily: 'Poppins');
 

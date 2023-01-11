@@ -1,4 +1,4 @@
-package com.rasitayaz.keep2yourself
+package com.rasitayaz.keep_typing
 
 import io.flutter.embedding.android.FlutterActivity
 
